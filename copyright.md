@@ -73,7 +73,7 @@ Use of these marks and visual representations does not imply any affiliation wit
 Skollmunity respects the intellectual property rights of creators and copyright owners worldwide. If you are a copyright owner or an authorized agent and believe that any content hosted on this site infringes upon your copyright outside the boundaries of Fair Use or legal exceptions:
 
 1. **Contact the author:** Open an issue or inquiry via our official GitHub repository:
-   - **Repository:** [https://github.com/Skollmunity/Skollmunity.github.io](https://github.com/Skollmunity/Skollmunity.github.io)
+   - **Repository:** [Skollmunity/Skollmunity.github.io](https://github.com/Skollmunity/Skollmunity.github.io)
    - **Personal Profile:** [https://github.com/Skollwarynz](https://github.com/Skollwarynz)
    - **Alternative Contact:** [https://linktr.ee/skollmunity](https://linktr.ee/skollmunity)
 2. **Information to provide:**

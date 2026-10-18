@@ -97,7 +97,7 @@ bundle exec jekyll serve --drafts
 This project is configured for **`https://Skollmunity.github.io`**.
 
 ### Standard Setup:
-1. Push this repository to GitHub under the name `Skollmunity.github.io` (or your preferred repo name).
+1. Transfer this repository to the `Skollmunity` GitHub account/organization and name it exactly `Skollmunity.github.io`.
 2. Go to **Settings** > **Pages** in your GitHub repository.
 3. Under **Build and deployment** > **Source**, choose:
    - **GitHub Actions** (recommended, uses `.github/workflows/deploy.yml`), OR
