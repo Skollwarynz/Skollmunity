@@ -1,0 +1,14 @@
+# Skollmunity
+
+> Skollmunity is an independent, non-commercial research blog by Skollwarynz about visual perception, color psychology, fine art, costume design, cinema, anime, and narrative visual theory.
+
+This compatibility file points to the same curated resources as the standard `/llms.txt` file.
+
+## Key resources
+
+- [Homepage](https://skollmunity.github.io/): Latest articles and site overview.
+- [Category dashboard](https://skollmunity.github.io/categories/): Browse the site's main subjects.
+- [About](https://skollmunity.github.io/about/): Project and author information.
+- [Copyright and attribution policy](https://skollmunity.github.io/copyright/): Image sourcing and rights information.
+- [Sitemap](https://skollmunity.github.io/sitemap.xml): Public page index.
+- [Standard llms.txt file](https://skollmunity.github.io/llms.txt): Full machine-readable site guide.

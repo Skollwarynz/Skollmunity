@@ -20,6 +20,7 @@ Skollmunity is a static Jekyll site published by GitHub Pages at `https://skollm
 | `about.md`, `art.md`, `categories.html` | Standalone pages. |
 | `copyright.md` | Copyright, attribution, fair-use, and takedown policy. |
 | `robots.txt` | Crawler instructions and the public sitemap URL. |
+| `llms.txt`, `llm.txt` | Curated machine-readable site summaries for AI agents; `llms.txt` follows the current community proposal and `llm.txt` is a compatibility alias. |
 | `Gemfile` | Ruby and Jekyll plugin dependencies. |
 | `.github/workflows/deploy.yml` | GitHub Actions build and GitHub Pages deployment. |
 
@@ -92,5 +93,6 @@ Before pushing to `main`, confirm:
 - Every new image has a local asset path or a traceable original source and license.
 - Every content image is clickable to its asset or source page.
 - `robots.txt` points to `https://skollmunity.github.io/sitemap.xml`.
+- `llms.txt` and `llm.txt` contain current links and descriptions.
 - GitHub Actions finishes the Pages deployment successfully.
 - Search Console verification is complete and the sitemap URL has been submitted.

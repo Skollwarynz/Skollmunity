@@ -1,0 +1,26 @@
+# Skollmunity
+
+> Skollmunity is an independent, non-commercial research blog by Skollwarynz about visual perception, color psychology, fine art, costume design, cinema, anime, and narrative visual theory.
+
+The site is a static Jekyll publication hosted on GitHub Pages. Article images are stored locally where available and linked to local assets or cited source pages. Copyright, attribution, and takedown information is described on the copyright policy page.
+
+## Core pages
+
+- [Homepage](https://skollmunity.github.io/): Latest articles and the main topic areas.
+- [About](https://skollmunity.github.io/about/): About the author and the project.
+- [Category dashboard](https://skollmunity.github.io/categories/): Browse articles by topic.
+- [What is Art?](https://skollmunity.github.io/art/): Introduction to the site's art and visual theory scope.
+- [Copyright and attribution policy](https://skollmunity.github.io/copyright/): Image sourcing, attribution, copyright exceptions, and takedown procedure.
+- [Sitemap](https://skollmunity.github.io/sitemap.xml): Machine-generated list of public pages.
+
+## Main topics
+
+- [Color Psychology](https://skollmunity.github.io/categories/color-psychology/): Emotional, cultural, and symbolic meanings of colors.
+- [Color Theory](https://skollmunity.github.io/categories/color-theory/): Color relationships, temperature, schemes, and perception.
+- [Superheroes](https://skollmunity.github.io/categories/superheroes/): Costume, character, and visual identity analysis.
+- [TV Series and Films](https://skollmunity.github.io/categories/tv-series-and-films/): Cinematography and narrative color analysis.
+
+## Optional
+
+- [RSS feed](https://skollmunity.github.io/feed.xml): Published articles in feed format.
+- [Site structure and maintenance guide](https://skollmunity.github.io/docs/site-structure-and-maintenance.pdf): How to edit, build, verify, and publish the site.
