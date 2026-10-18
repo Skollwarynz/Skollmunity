@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<div class="home-hero">
+  <div class="container hero-container">
+    <div class="hero-badge">🎨 Exploring Visual Psychology & Storytelling</div>
+    <h1 class="hero-title">Decode the Hidden Language of Color</h1>
+    <p class="hero-subtitle">From classical art and cinema to anime and superhero design, discover how hues shape emotion, meaning, and subconscious narrative.</p>
+    
+    <div class="category-pills">
+      <a href="{{ '/categories/#color-psychology' | relative_url }}" class="cat-pill cat-psychology">💜 Color Psychology</a>
+      <a href="{{ '/categories/#color-theory' | relative_url }}" class="cat-pill cat-theory">🎨 Color Theory</a>
+      <a href="{{ '/categories/#superheroes' | relative_url }}" class="cat-pill cat-superheroes">🦸 Superheroes</a>
+      <a href="{{ '/categories/#tv-series-and-films' | relative_url }}" class="cat-pill cat-films">🎬 Film & TV Analysis</a>
+      <a href="{{ '/art/' | relative_url }}" class="cat-pill cat-art">🖼️ What is Art?</a>
+    </div>
+  </div>
+</div>
+
+<div class="container main-container">
+  <section class="posts-section">
+    <div class="section-header">
+      <h2 class="section-title">Latest Articles</h2>
+      <span class="post-count">{{ site.posts.size }} Posts</span>
+    </div>
+
+    <div class="posts-grid">
+      {% for post in site.posts %}
+      <article class="post-card">
+        <a href="{{ post.url | relative_url }}" class="post-card-image-link">
+          {% if post.image %}
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-card-thumb" loading="lazy">
+          {% else %}
+          <div class="post-card-fallback-thumb">
+            <span class="thumb-emoji">🎨</span>
+          </div>
+          {% endif %}
+        </a>
+
+        <div class="post-card-content">
+          <div class="post-card-meta">
+            {% if post.categories.first %}
+            <a href="{{ '/categories/#' | append: post.categories.first | slugify | relative_url }}" class="post-category-tag">
+              {{ post.categories.first }}
+            </a>
+            {% endif %}
+            <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+          </div>
+
+          <h3 class="post-card-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+
+          <p class="post-card-excerpt">
+            {{ post.content | strip_html | truncatewords: 22 }}
+          </p>
+
+          <div class="post-card-footer">
+            <span class="reading-time">⏱️ {{ post.content | number_of_words | divided_by: 180 | plus: 1 }} min read</span>
+            <a href="{{ post.url | relative_url }}" class="read-more-link">Read article &rarr;</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+</div>

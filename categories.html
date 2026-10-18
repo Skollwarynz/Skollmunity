@@ -1,0 +1,32 @@
+---
+layout: page
+title: "Explore by Category"
+subtitle: "Browse all articles grouped by category and subject"
+permalink: /categories/
+---
+
+<div class="categories-nav-pills" style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 2.5rem;">
+  {% assign sorted_cats = site.categories | sort %}
+  {% for category in sorted_cats %}
+  <a href="#{{ category[0] | slugify }}" class="cat-pill">
+    {{ category[0] }} ({{ category[1].size }})
+  </a>
+  {% endfor %}
+</div>
+
+{% for category in sorted_cats %}
+<div class="category-block" id="{{ category[0] | slugify }}">
+  <h2 class="category-block-title">
+    <span>📂 {{ category[0] }}</span>
+    <span class="post-count">{{ category[1].size }}</span>
+  </h2>
+  <ul class="category-post-list">
+    {% for post in category[1] %}
+    <li class="category-post-item">
+      <a href="{{ post.url | relative_url }}" class="category-post-link">{{ post.title }}</a>
+      <span class="category-post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}

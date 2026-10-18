@@ -1,0 +1,38 @@
+title: "Skollmunity"
+tagline: "Learn, discover and explore color psychology, art, and visual storytelling"
+description: "A community blog exploring color psychology, art history, superhero costumes, and film color analysis."
+url: "https://Skollmunity.github.io"
+baseurl: ""
+
+# Author metadata
+author:
+  name: "Skollwarynz"
+  bio: "Exploring the psychology of color, visual arts, and narrative theory in pop culture."
+  avatar: "/assets/images/2023/11/SPHERE.png"
+  links:
+    linktree: "https://linktr.ee/skollmunity"
+    github: "https://github.com/Skollmunity"
+
+# Build settings
+permalink: /:title/
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# GitHub Pages compatible plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude unnecessary files from the Jekyll build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - convert_wp.py
+  - skollmunity.WordPress.2026-10-18.xml
+  - README.md
+  - LICENSE
+  - vendor/

@@ -1,0 +1,92 @@
+---
+layout: default
+---
+
+<article class="post-single">
+  <div class="post-header-wrapper">
+    <div class="container narrow-container">
+      <div class="post-breadcrumbs">
+        <a href="{{ '/' | relative_url }}">Home</a> &rsaquo;
+        {% if page.categories.first %}
+        <a href="{{ '/categories/#' | append: page.categories.first | slugify | relative_url }}">{{ page.categories.first }}</a> &rsaquo;
+        {% endif %}
+        <span>{{ page.title }}</span>
+      </div>
+
+      <div class="post-meta-top">
+        {% for cat in page.categories %}
+        <span class="post-badge">{{ cat }}</span>
+        {% endfor %}
+      </div>
+
+      <h1 class="post-title">{{ page.title }}</h1>
+
+      <div class="post-meta-details">
+        <div class="author-meta">
+          <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="author-avatar-small">
+          <span class="author-name">{{ site.author.name }}</span>
+        </div>
+        <span class="meta-dot">&bull;</span>
+        <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+        <span class="meta-dot">&bull;</span>
+        <span class="reading-time">⏱️ {{ content | number_of_words | divided_by: 180 | plus: 1 }} min read</span>
+      </div>
+    </div>
+  </div>
+
+  {% if page.image %}
+  <div class="post-hero-image-wrap">
+    <div class="container narrow-container">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="post-hero-image">
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="container narrow-container">
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    {% if page.tags and page.tags.size > 0 %}
+    <div class="post-tags-section">
+      <span class="tags-label">Tagged with:</span>
+      <div class="tags-list">
+        {% for tag in page.tags %}
+        <span class="tag-pill">#{{ tag }}</span>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    <div class="author-card">
+      <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="author-card-avatar">
+      <div class="author-card-info">
+        <h4 class="author-card-name">{{ site.author.name }}</h4>
+        <p class="author-card-bio">{{ site.author.bio }}</p>
+        <div class="author-card-links">
+          {% if site.author.links.linktree %}
+          <a href="{{ site.author.links.linktree }}" target="_blank" rel="noopener noreferrer" class="author-btn">Connect on Linktree</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    <nav class="post-navigation">
+      {% if page.previous.url %}
+      <a href="{{ page.previous.url | relative_url }}" class="post-nav-card post-nav-prev">
+        <span class="nav-direction">&larr; Previous Article</span>
+        <span class="nav-title">{{ page.previous.title }}</span>
+      </a>
+      {% else %}
+      <div class="post-nav-card empty"></div>
+      {% endif %}
+
+      {% if page.next.url %}
+      <a href="{{ page.next.url | relative_url }}" class="post-nav-card post-nav-next">
+        <span class="nav-direction">Next Article &rarr;</span>
+        <span class="nav-title">{{ page.next.title }}</span>
+      </a>
+      {% endif %}
+    </nav>
+  </div>
+</article>

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article class="page-single">
+  <div class="page-header-wrapper">
+    <div class="container narrow-container">
+      <h1 class="page-title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <p class="page-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </div>
+  </div>
+
+  {% if page.image %}
+  <div class="page-hero-image-wrap">
+    <div class="container narrow-container">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="page-hero-image">
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="container narrow-container">
+    <div class="page-body">
+      {{ content }}
+    </div>
+  </div>
+</article>
