@@ -15,7 +15,7 @@ layout: default
 
       <div class="post-meta-top">
         {% for cat in page.categories %}
-        <span class="post-badge">{{ cat }}</span>
+        <a href="{{ '/categories/#' | append: cat | slugify | relative_url }}" class="post-badge">{{ cat }}</a>
         {% endfor %}
       </div>
 
@@ -49,7 +49,7 @@ layout: default
 
     {% if page.tags and page.tags.size > 0 %}
     <div class="post-tags-section">
-      <span class="tags-label">Tagged with:</span>
+      <span class="tags-label">Tags:</span>
       <div class="tags-list">
         {% for tag in page.tags %}
         <span class="tag-pill">#{{ tag }}</span>
@@ -58,15 +58,19 @@ layout: default
     </div>
     {% endif %}
 
+    <!-- AUTHOR CARD INSPIRED BY SKOLLWARYNZ.GITHUB.IO -->
     <div class="author-card">
       <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="author-card-avatar">
       <div class="author-card-info">
-        <h4 class="author-card-name">{{ site.author.name }}</h4>
+        <div class="author-card-title-row">
+          <h4 class="author-card-name">{{ site.author.name }}</h4>
+          <span class="author-card-role">{{ site.author.role }}</span>
+        </div>
         <p class="author-card-bio">{{ site.author.bio }}</p>
         <div class="author-card-links">
-          {% if site.author.links.linktree %}
-          <a href="{{ site.author.links.linktree }}" target="_blank" rel="noopener noreferrer" class="author-btn">Connect on Linktree</a>
-          {% endif %}
+          <a href="{{ site.author.links.portfolio }}" target="_blank" rel="noopener" class="author-btn">Portfolio &rarr;</a>
+          <a href="{{ site.author.links.github }}" target="_blank" rel="noopener" class="author-btn secondary">GitHub</a>
+          <a href="{{ site.author.links.linktree }}" target="_blank" rel="noopener" class="author-btn secondary">Linktree</a>
         </div>
       </div>
     </div>

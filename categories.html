@@ -1,32 +1,194 @@
 ---
-layout: page
-title: "Explore by Category"
-subtitle: "Browse all articles grouped by category and subject"
+layout: default
+title: "Category Dashboard"
+subtitle: "Select a topic below to view its articles"
 permalink: /categories/
 ---
 
-<div class="categories-nav-pills" style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 2.5rem;">
-  {% assign sorted_cats = site.categories | sort %}
-  {% for category in sorted_cats %}
-  <a href="#{{ category[0] | slugify }}" class="cat-pill">
-    {{ category[0] }} ({{ category[1].size }})
-  </a>
-  {% endfor %}
+<div class="home-hero dashboard-hero">
+  <div class="container hero-container">
+    <div class="hero-badge-group">
+      <span class="hero-tag-mono">TOPIC DASHBOARD</span>
+      <span class="hero-tag-mono accent-cyan">6 CURATED ARCHIVES</span>
+    </div>
+    <h1 class="hero-title">Category Hub</h1>
+    <p class="hero-subtitle">Select a subject below to explore its articles in a full homepage view.</p>
+  </div>
 </div>
 
-{% for category in sorted_cats %}
-<div class="category-block" id="{{ category[0] | slugify }}">
-  <h2 class="category-block-title">
-    <span>📂 {{ category[0] }}</span>
-    <span class="post-count">{{ category[1].size }}</span>
-  </h2>
-  <ul class="category-post-list">
-    {% for post in category[1] %}
-    <li class="category-post-item">
-      <a href="{{ post.url | relative_url }}" class="category-post-link">{{ post.title }}</a>
-      <span class="category-post-date">{{ post.date | date: "%b %d, %Y" }}</span>
-    </li>
-    {% endfor %}
-  </ul>
+<div class="container main-container">
+  <!-- BENTO CATEGORY DASHBOARD TILES -->
+  <div class="category-dashboard-grid">
+    <div class="category-card cat-card-psychology active" data-cat="all" onclick="filterDashboard('all', this)">
+      <div class="cat-card-top">
+        <span class="cat-icon">🎨</span>
+        <span class="cat-count">{{ site.posts.size }} Posts</span>
+      </div>
+      <h3 class="cat-card-name">All Articles</h3>
+      <p class="cat-card-desc">Browse the complete archive of visual research and color analysis.</p>
+    </div>
+
+    <div class="category-card cat-card-psychology" data-cat="Color psychology" onclick="filterDashboard('Color psychology', this)">
+      <div class="cat-card-top">
+        <span class="cat-icon">💜</span>
+        <span class="cat-count">14 Posts</span>
+      </div>
+      <h3 class="cat-card-name">Color Psychology</h3>
+      <p class="cat-card-desc">Emotional, cognitive, and subconscious reactions to hues and metallic shades.</p>
+      <a href="{{ '/categories/color-psychology/' | relative_url }}" class="cat-card-dedicated-link" onclick="event.stopPropagation()">Dedicated page &rarr;</a>
+    </div>
+
+    <div class="category-card cat-card-theory" data-cat="Color theory" onclick="filterDashboard('Color theory', this)">
+      <div class="cat-card-top">
+        <span class="cat-icon">📐</span>
+        <span class="cat-count">11 Posts</span>
+      </div>
+      <h3 class="cat-card-name">Color Theory</h3>
+      <p class="cat-card-desc">The color wheel, triadic and tetradic schemes, and temperature harmonies.</p>
+      <a href="{{ '/categories/color-theory/' | relative_url }}" class="cat-card-dedicated-link" onclick="event.stopPropagation()">Dedicated page &rarr;</a>
+    </div>
+
+    <div class="category-card cat-card-films" data-cat="TV series and films" onclick="filterDashboard('TV series and films', this)">
+      <div class="cat-card-top">
+        <span class="cat-icon">🎬</span>
+        <span class="cat-count">4 Posts</span>
+      </div>
+      <h3 class="cat-card-name">Films & TV Analysis</h3>
+      <p class="cat-card-desc">Cinematic palettes in Whiplash, Squid Game, and iconic anime.</p>
+      <a href="{{ '/categories/tv-series-and-films/' | relative_url }}" class="cat-card-dedicated-link" onclick="event.stopPropagation()">Dedicated page &rarr;</a>
+    </div>
+
+    <div class="category-card cat-card-superheroes" data-cat="Superheroes" onclick="filterDashboard('Superheroes', this)">
+      <div class="cat-card-top">
+        <span class="cat-icon">🦸</span>
+        <span class="cat-count">3 Posts</span>
+      </div>
+      <h3 class="cat-card-name">Superheroes</h3>
+      <p class="cat-card-desc">Costume palette deconstruction, morality cues, and character design.</p>
+      <a href="{{ '/categories/superheroes/' | relative_url }}" class="cat-card-dedicated-link" onclick="event.stopPropagation()">Dedicated page &rarr;</a>
+    </div>
+
+    <div class="category-card cat-card-art" data-cat="art" onclick="filterDashboard('art', this)">
+      <div class="cat-card-top">
+        <span class="cat-icon">🖼️</span>
+        <span class="cat-count">2 Posts</span>
+      </div>
+      <h3 class="cat-card-name">Art & Philosophy</h3>
+      <p class="cat-card-desc">Historical evolution from the Renaissance masters to AI-generated art.</p>
+      <a href="{{ '/categories/art/' | relative_url }}" class="cat-card-dedicated-link" onclick="event.stopPropagation()">Dedicated page &rarr;</a>
+    </div>
+  </div>
+
+  <!-- ACTIVE SELECTION DISPLAY -->
+  <section class="posts-section" style="margin-top: 3.5rem;">
+    <div class="section-header">
+      <div>
+        <span class="hero-tag-mono" id="currentCatBadge" style="margin-bottom: 0.5rem; display: inline-block;">SHOWING ALL</span>
+        <h2 class="section-title" id="currentCatTitle">All Articles</h2>
+      </div>
+      <span class="post-count" id="filteredPostCount">{{ site.posts.size }} Posts</span>
+    </div>
+
+    <!-- HOMEPAGE-STYLE ARTICLE GRID -->
+    <div class="posts-grid" id="dashboardPostsGrid">
+      {% for post in site.posts %}
+      <article class="post-card" data-categories="{{ post.categories | join: '|' | escape }}">
+        <a href="{{ post.url | relative_url }}" class="post-card-image-link">
+          {% if post.image %}
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-card-thumb" loading="lazy">
+          {% else %}
+          <div class="post-card-fallback-thumb">
+            <span class="thumb-emoji">🎨</span>
+          </div>
+          {% endif %}
+        </a>
+
+        <div class="post-card-content">
+          <div class="post-card-meta">
+            {% if post.categories.first %}
+            <span class="post-category-tag">{{ post.categories.first }}</span>
+            {% endif %}
+            <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+          </div>
+
+          <h3 class="post-card-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+
+          <p class="post-card-excerpt">
+            {{ post.content | strip_html | truncatewords: 22 }}
+          </p>
+
+          <div class="post-card-footer">
+            <span class="reading-time">⏱️ {{ post.content | number_of_words | divided_by: 180 | plus: 1 }} min read</span>
+            <a href="{{ post.url | relative_url }}" class="read-more-link">Read article &rarr;</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
 </div>
-{% endfor %}
+
+<script>
+  function filterDashboard(category, cardElement) {
+    // Update active card styling
+    document.querySelectorAll('.category-card').forEach(el => el.classList.remove('active'));
+    if (cardElement) {
+      cardElement.classList.add('active');
+    }
+
+    const titleEl = document.getElementById('currentCatTitle');
+    const badgeEl = document.getElementById('currentCatBadge');
+    const countEl = document.getElementById('filteredPostCount');
+    const cards = document.querySelectorAll('#dashboardPostsGrid .post-card');
+
+    let visibleCount = 0;
+
+    cards.forEach(card => {
+      const cats = card.getAttribute('data-categories') || '';
+      if (category === 'all' || cats.toLowerCase().includes(category.toLowerCase())) {
+        card.style.display = 'flex';
+        visibleCount++;
+      } else {
+        card.style.display = 'none';
+      }
+    });
+
+    if (category === 'all') {
+      titleEl.textContent = 'All Articles';
+      badgeEl.textContent = 'SHOWING ALL';
+    } else {
+      titleEl.textContent = category;
+      badgeEl.textContent = 'CATEGORY ARCHIVE';
+    }
+    countEl.textContent = visibleCount + ' Posts';
+
+    // Update URL hash for sharing
+    if (category !== 'all') {
+      window.location.hash = encodeURIComponent(category.toLowerCase().replace(/\s+/g, '-'));
+    } else {
+      history.replaceState(null, null, ' ');
+    }
+  }
+
+  // Handle URL hash on load (e.g. /categories/#color-psychology)
+  window.addEventListener('DOMContentLoaded', () => {
+    const hash = window.location.hash.replace('#', '').toLowerCase();
+    if (!hash) return;
+
+    const mapping = {
+      'color-psychology': 'Color psychology',
+      'color-theory': 'Color theory',
+      'superheroes': 'Superheroes',
+      'tv-series-and-films': 'TV series and films',
+      'art': 'art'
+    };
+
+    const targetCat = mapping[hash];
+    if (targetCat) {
+      const card = document.querySelector(`.category-card[data-cat="${targetCat}"]`);
+      filterDashboard(targetCat, card);
+    }
+  });
+</script>

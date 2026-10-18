@@ -1,17 +1,23 @@
 title: "Skollmunity"
-tagline: "Learn, discover and explore color psychology, art, and visual storytelling"
-description: "A community blog exploring color psychology, art history, superhero costumes, and film color analysis."
+tagline: "Visual Perception, Color Psychology & Narrative Theory"
+description: "Decoding the hidden language of color, fine art, superhero design, and cinematography. An open source initiative by Skollwarynz."
 url: "https://Skollmunity.github.io"
 baseurl: ""
 
-# Author metadata
+# Author metadata inspired by Skollwarynz.github.io
 author:
-  name: "Skollwarynz"
-  bio: "Exploring the psychology of color, visual arts, and narrative theory in pop culture."
+  name: "Skoll (Skollwarynz)"
+  role: "Systems Programmer & Visual Analyst"
+  institution: "UniTo / Computer Science"
+  tagline: "Bare-metal C engineering meets visual perception and color theory"
+  bio: "Operating at the intersection of bare-metal systems rigor and visual perception. Researching color psychology, 3D modeling in Blender, and narrative visual storytelling."
   avatar: "/assets/images/2023/11/SPHERE.png"
   links:
+    portfolio: "https://skollwarynz.github.io"
+    github: "https://github.com/Skollwarynz"
+    codeberg: "https://codeberg.org/Skollwarynz"
     linktree: "https://linktr.ee/skollmunity"
-    github: "https://github.com/Skollmunity"
+    skolldice: "https://skollwarynz.github.io/SkollDice/"
 
 # Build settings
 permalink: /:title/

@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<div class="home-hero category-hero">
+  <div class="container hero-container">
+    <div class="hero-badge-group">
+      <a href="{{ '/categories/' | relative_url }}" class="hero-tag-mono">&larr; ALL CATEGORIES DASHBOARD</a>
+      <span class="hero-tag-mono accent-cyan">{{ page.posts_count }} ARTICLES</span>
+    </div>
+    <h1 class="hero-title">{{ page.title }}</h1>
+    <p class="hero-subtitle">{{ page.description }}</p>
+  </div>
+</div>
+
+<div class="container main-container">
+  <section class="posts-section">
+    <div class="section-header">
+      <h2 class="section-title">Articles in {{ page.title }}</h2>
+      <a href="{{ '/categories/' | relative_url }}" class="back-dashboard-btn">&larr; Switch Category</a>
+    </div>
+
+    <div class="posts-grid">
+      {% assign cat_posts = site.categories[page.category_name] %}
+      {% for post in cat_posts %}
+      <article class="post-card">
+        <a href="{{ post.url | relative_url }}" class="post-card-image-link">
+          {% if post.image %}
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-card-thumb" loading="lazy">
+          {% else %}
+          <div class="post-card-fallback-thumb">
+            <span class="thumb-emoji">🎨</span>
+          </div>
+          {% endif %}
+        </a>
+
+        <div class="post-card-content">
+          <div class="post-card-meta">
+            <span class="post-category-tag">{{ page.title }}</span>
+            <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+          </div>
+
+          <h3 class="post-card-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+
+          <p class="post-card-excerpt">
+            {{ post.content | strip_html | truncatewords: 22 }}
+          </p>
+
+          <div class="post-card-footer">
+            <span class="reading-time">⏱️ {{ post.content | number_of_words | divided_by: 180 | plus: 1 }} min read</span>
+            <a href="{{ post.url | relative_url }}" class="read-more-link">Read article &rarr;</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+</div>

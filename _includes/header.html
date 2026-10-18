@@ -4,7 +4,10 @@
       <a href="{{ '/' | relative_url }}" class="brand-link">
         <img src="{{ '/assets/images/2023/11/SPHERE.png' | relative_url }}" alt="{{ site.title }} logo" class="brand-logo">
         <div class="brand-text">
-          <span class="brand-title">{{ site.title }}</span>
+          <div class="brand-title-wrap">
+            <span class="brand-badge-tag">SKOLL</span>
+            <span class="brand-title">{{ site.title }}</span>
+          </div>
           <span class="brand-tagline">{{ site.tagline }}</span>
         </div>
       </a>
@@ -19,13 +22,10 @@
     <nav class="site-nav" id="siteNav">
       <ul class="nav-list">
         <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
-        <li><a href="{{ '/categories/#color-psychology' | relative_url }}">Color Psychology</a></li>
-        <li><a href="{{ '/categories/#color-theory' | relative_url }}">Color Theory</a></li>
-        <li><a href="{{ '/categories/#superheroes' | relative_url }}">Superheroes</a></li>
-        <li><a href="{{ '/categories/#tv-series-and-films' | relative_url }}">Films & Series</a></li>
+        <li><a href="{{ '/categories/' | relative_url }}" {% if page.url contains '/categories' %}class="active"{% endif %}>Categories</a></li>
         <li><a href="{{ '/art/' | relative_url }}" {% if page.url == '/art/' %}class="active"{% endif %}>Art</a></li>
-        <li><a href="{{ '/categories/' | relative_url }}" {% if page.url == '/categories/' %}class="active"{% endif %}>Categories</a></li>
         <li><a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About</a></li>
+        <li><a href="https://skollwarynz.github.io" target="_blank" rel="noopener" class="nav-portfolio-link">Portfolio &rarr;</a></li>
       </ul>
     </nav>
   </div>
