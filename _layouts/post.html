@@ -23,7 +23,9 @@ layout: default
 
       <div class="post-meta-details">
         <div class="author-meta">
-          <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="author-avatar-small">
+          <a href="{{ site.author.avatar | relative_url }}" target="_blank" rel="noopener noreferrer" title="Open author avatar">
+            <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="author-avatar-small">
+          </a>
           <span class="author-name">{{ site.author.name }}</span>
         </div>
         <span class="meta-dot">&bull;</span>
@@ -37,7 +39,9 @@ layout: default
   {% if page.image %}
   <div class="post-hero-image-wrap">
     <div class="container narrow-container">
-      <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="post-hero-image">
+      <a href="{{ page.image | relative_url }}" target="_blank" rel="noopener noreferrer" title="View full resolution image">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="post-hero-image">
+      </a>
     </div>
   </div>
   {% endif %}
@@ -45,6 +49,14 @@ layout: default
   <div class="container narrow-container">
     <div class="post-body">
       {{ content }}
+    </div>
+
+    <div class="post-copyright-box">
+      <div class="post-copyright-icon">⚖️</div>
+      <div class="post-copyright-text">
+        <strong>Fair Use &amp; Image Attribution Policy:</strong>
+        Multimedia and cultural artworks in this analytical article are intended for critical review, education, and artistic theory. Embedded images link directly to source archives or high-resolution assets. Copyright exceptions depend on the work, use, and jurisdiction; see our <a href="{{ '/copyright/' | relative_url }}">Copyright &amp; Attribution Policy</a>.
+      </div>
     </div>
 
     {% if page.tags and page.tags.size > 0 %}
@@ -60,7 +72,9 @@ layout: default
 
     <!-- AUTHOR CARD INSPIRED BY SKOLLWARYNZ.GITHUB.IO -->
     <div class="author-card">
-      <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="author-card-avatar">
+      <a href="{{ site.author.avatar | relative_url }}" target="_blank" rel="noopener noreferrer" title="Open author avatar">
+        <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="author-card-avatar">
+      </a>
       <div class="author-card-info">
         <div class="author-card-title-row">
           <h4 class="author-card-name">{{ site.author.name }}</h4>

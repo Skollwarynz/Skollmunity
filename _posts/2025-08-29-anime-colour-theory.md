@@ -32,7 +32,7 @@ In general, if you think about it, most shonen present some element-based powers
 
 In addition, there are then a lot of different colour codes connected with the culture about kimono. Here is a table with the most common theme and colour for each month.
 
-![Table of kimono months' colour](/assets/images/2025/08/image-296x480.png)
+[![Table of kimono months' colour](/assets/images/2025/08/image-296x480.png)](https://www.colorsexplained.com/cool-colors/)
 
 ## Hair in anime colors
 
@@ -54,31 +54,31 @@ When we talk about visual media, the most important aspect is design. In anime, 
 
 The **side ponytail** is usually used to represent mothers in anime. Sadly this hairstyle is often referred to as the "dead-mother style" too. The reason for this change of name is because usually the fandom spots this specific hairstyle on characters that at the start or during the series die, and usually all of them are mothers. Some examples (with no big spoilers) are [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Trisha Elric</span>](https://moviemorgue.fandom.com/wiki/Trisha_Elric) (Fullmetal Alchemist) and [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Carla Yeager</span>](https://attackontitan.fandom.com/wiki/Carla_Yeager) (Attack on Titan). The classical **ponytail**, instead, usually is used to represent a ready personality, often ready for action. An example of this is [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Yoko</span>](https://gurrenlagann.fandom.com/wiki/Yoko_Littner) (Gurren Lagann).
 
-![Side ponytail](/assets/images/2025/08/side-ponytail.jpg)
+[![Side ponytail](/assets/images/2025/08/side-ponytail.jpg)](/assets/images/2025/08/side-ponytail.jpg)
 
 ### Twintail
 
 Then we reach the **twintail**. This hairstyle is usually used to represent childish characters. Sometimes this characteristic is used to create a more complex character. For example, [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Mine</span>](https://akamegakill.fandom.com/wiki/Mine) (Akame Ga Kill) uses twintails to represent a childish character; in addition, this personality fuses with the seriousness of the anime, creating a character that is capable of shifting from these two opposite ideals. To conclude, this character fuses with the colour of hair that adds value to the hairstyle storyline.
 
-![Twintail drawing 1](/assets/images/2025/08/twintail-drawing-1.jpeg)
+[![Twintail drawing 1](/assets/images/2025/08/twintail-drawing-1.jpeg)](/assets/images/2025/08/twintail-drawing-1.jpeg)
 
 ## Hime cut
 
 In addition to female hairstyles, we have the **hime cut**. This hairstyle is usually used to represent characters with royal implications or a royal attitude. Although the hairstyle can have many variations depending on the designer, the style is derived from the Heian period when Japan started to change its style from the Chinese influence. During that period the nobles started having long straight black hair. This style is used on [Chi-Chi](https://dragonball.fandom.com/wiki/Chi-Chi) (Dragon Ball).
 
-![Hime hair 960x539](/assets/images/2025/08/Hime-hair-960x539.jpg)
+[![Hime hair 960x539](/assets/images/2025/08/Hime-hair-960x539.jpg)](/assets/images/2025/08/Hime-hair-960x539.jpg)
 
 ### Spiky hair
 
 The **spiky hair** representatives of male characters use spikes to represent the powerful personality of the character. Often we can see that most aggressive and determined characters tend to have spiky hair in anime. A common example of this is [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Katsuki Bakugo</span>](https://myheroacademia.fandom.com/wiki/Katsuki_Bakugo) (My Hero Academia). The spikiness of hair is used even for calmer personalities like [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Izuku Midoriya</span>](https://myheroacademia.fandom.com/wiki/Izuku_Midoriya) from the same series. These two characters represent two opposite personalities, and so does their hair. Midoriya is represented with "calmer" hair because of his peaceful personality; Bakugo is the opposite.
 
-![Spiky hair](/assets/images/2025/08/Spiky-hair.png)
+[![Spiky hair](/assets/images/2025/08/Spiky-hair.png)](/assets/images/2025/08/Spiky-hair.png)
 
 ## Ojou ringlets
 
 Although the hime cut usually represents royalty, the **ojou ringlets** represent prissy snobs. A common example of this style is [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Elizabeth Midford</span>](https://kuroshitsuji.fandom.com/wiki/Elizabeth_Midford) (Black Butler).
 
-![Japanese girl with ojou ringlets](/assets/images/2025/08/ojuo-ringlets-320x320.jpg)
+[![Japanese girl with ojou ringlets](/assets/images/2025/08/ojuo-ringlets-320x320.jpg)](/assets/images/2025/08/ojuo-ringlets-320x320.jpg)
 
 ## Odango buns
 
@@ -90,19 +90,19 @@ Although the **Hime cut** tries to diversify from Chinese culture, the presence 
 
 Madame de Pompadour of King Louis the 15th's court invented the pompadour hairstyle. Imported to Japan by Americans during the rebuilding after WW2. This style during the 60s became a symbol of rebellion, and for this reason, it became popular among the young generation. Still used to this day, in anime it represents the rebellious characters with a golden heart; a quick example is [Chiharu Shiba](https://baki.fandom.com/wiki/Chiharu_Shiba) (Baki), a gangster with a strong moral code, or we can think about. Another example is [Ryu Umemiya](https://character-stats-and-profiles.fandom.com/wiki/Ryu_Umemiya_(Canon,_Shaman_King)/Young-Jah) (Shaman King).
 
-![Pompadour hairstyle](/assets/images/2025/08/Pompadour-hair.jpg)
+[![Pompadour hairstyle](/assets/images/2025/08/Pompadour-hair.jpg)](/assets/images/2025/08/Pompadour-hair.jpg)
 
 ## Hair antenna and ahoge
 
 The Ahoge style literally means "foolish hair". Visually, it is a single cowlick, normally added to other hairstyles mentioned before. When the cowlick becomes more than one, the style takes the name of hair antenna. The simplicity of this style is usually used for secondary characters of protagonists who are naive or silly. Even though the hairstyle doesn't have a direct cultural connection, the style is used for [Edward Elric](https://fma.fandom.com/wiki/Edward_Elric) (Fullmetal Alchemist Brotherhood) to smooth the character design. In this specific case the ahoge suggests innocence.
 
-![ahoge hair](/assets/images/2025/08/ahoge-960x1201.png)
+[![ahoge hair](/assets/images/2025/08/ahoge-960x1201.png)](/assets/images/2025/08/ahoge-960x1201.png)
 
 ### And no hair?
 
 The **bald** look instead is not popular in anime because hairstyles, like eyes, are ways to represent the personality of characters. The absence of this important feature is a feature itself. The absence of hair usually represents characters with strong bodies and heated personalities; some examples are [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Saitama</span>](https://onepunchman.fandom.com/wiki/Saitama) (One Punch Man), a typical example of strength, and [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Ikkaku Madarame</span>](https://bleach.fandom.com/wiki/Ikkaku_Madarame) (Bleach).
 
-![Bald man](/assets/images/2025/08/bald-man.jpg)
+[![Bald man](/assets/images/2025/08/bald-man.jpg)](/assets/images/2025/08/bald-man.jpg)
 
 ## Eyes in anime
 
@@ -112,23 +112,23 @@ Another rule added to this general design pattern is the colour of the pupil. As
 
 ### Why anime colour?
 
-![Black hair in anime](/assets/images/2025/08/Black-hair-in-anime.jpg)
+[![Black hair in anime](/assets/images/2025/08/Black-hair-in-anime.jpg)](/assets/images/2025/08/Black-hair-in-anime.jpg)
 
- ![Blond hair in anime](/assets/images/2025/08/blond-hair-in-anime.jpg)
+ [![Blond hair in anime](/assets/images/2025/08/blond-hair-in-anime.jpg)](/assets/images/2025/08/blond-hair-in-anime.jpg)
 
- ![White hair in anime](/assets/images/2025/08/white-hair-in-anime.jpg)
+ [![White hair in anime](/assets/images/2025/08/white-hair-in-anime.jpg)](/assets/images/2025/08/white-hair-in-anime.jpg)
 
- ![Blue hair in anime](/assets/images/2025/08/blue-hair-in-anime.jpg)
+ [![Blue hair in anime](/assets/images/2025/08/blue-hair-in-anime.jpg)](/assets/images/2025/08/blue-hair-in-anime.jpg)
 
- ![Green hair in anime](/assets/images/2025/08/green-hair-in-anime.jpg)
+ [![Green hair in anime](/assets/images/2025/08/green-hair-in-anime.jpg)](/assets/images/2025/08/green-hair-in-anime.jpg)
 
- ![Red in anime hair](/assets/images/2025/08/red-in-anime-hair.jpg)
+ [![Red in anime hair](/assets/images/2025/08/red-in-anime-hair.jpg)](/assets/images/2025/08/red-in-anime-hair.jpg)
 
- ![Pink hair in anime](/assets/images/2025/08/pink-hair-in-anime.jpg)
+ [![Pink hair in anime](/assets/images/2025/08/pink-hair-in-anime.jpg)](/assets/images/2025/08/pink-hair-in-anime.jpg)
 
- ![Orange in anime hair](/assets/images/2025/08/orange-in-anime-hair.jpg)
+ [![Orange in anime hair](/assets/images/2025/08/orange-in-anime-hair.jpg)](/assets/images/2025/08/orange-in-anime-hair.jpg)
 
- ![Purple in anime hair](/assets/images/2025/08/purple-in-anime-hair.jpg)
+ [![Purple in anime hair](/assets/images/2025/08/purple-in-anime-hair.jpg)](/assets/images/2025/08/purple-in-anime-hair.jpg)
 
 Thank you all for reading this article; see you in the next :).
 

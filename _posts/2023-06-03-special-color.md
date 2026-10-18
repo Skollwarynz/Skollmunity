@@ -45,9 +45,9 @@ Instead, cool colors are generally green, purple, and blue. They tend to give an
 
 Here I put some examples so you can understand more:
 
-![Good example of a designd with wamr color. Hue that express a hot temeprature, usually red yellow and orange.](/assets/images/2023/04/untitled3-960x960.png)
+[![Good example of a designd with wamr color. Hue that express a hot temeprature, usually red yellow and orange.](/assets/images/2023/04/untitled3-960x960.png)](/assets/images/2023/04/untitled3-960x960.png)
 
- ![An example of a design that uses cold color, so hue that express tranquillity and usally are blue,purple and green.](/assets/images/2023/04/untitled4-960x960.png)
+ [![An example of a design that uses cold color, so hue that express tranquillity and usally are blue,purple and green.](/assets/images/2023/04/untitled4-960x960.png)](/assets/images/2023/04/untitled4-960x960.png)
 
 Hue temperature is a really challenging notion to understand. 
 

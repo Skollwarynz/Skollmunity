@@ -31,7 +31,7 @@ The color blue has a significant influence in this scenario since it covers the 
 
 The relationship between serenity and blue is mostly due to this association between blue and water.
 
-![Image of a seascape that represents the sea.](/assets/images/2023/07/blue-landscape.jpg)
+[![Image of a seascape that represents the sea.](/assets/images/2023/07/blue-landscape.jpg)](/assets/images/2023/07/blue-landscape.jpg)
 
 ## **Blue, the color of loyalty and trustworthy**
 
@@ -43,7 +43,7 @@ This wasn't a random choice; it was made mostly because our brain interprets thi
 
 Industries that employ blue to give a more secure impression of the brand also use this trick.
 
-![Image of a policeman to show the use of blue as a symbol of loyalty and trustworthiness.](/assets/images/2023/07/blue-policeman.jpg)
+[![Image of a policeman to show the use of blue as a symbol of loyalty and trustworthiness.](/assets/images/2023/07/blue-policeman.jpg)](/assets/images/2023/07/blue-policeman.jpg)
 
 ## **Blue and feelings**
 
@@ -62,7 +62,7 @@ Blue is also the hue of melancholy and sadness. We know this for a variety of re
 
 Even the phrase "I'm feeling blue" refers to a gloomy mood.
 
-![Image of a sad guy on a blue background.](/assets/images/2023/07/blue-sad.jpg)
+[![Image of a sad guy on a blue background.](/assets/images/2023/07/blue-sad.jpg)](/assets/images/2023/07/blue-sad.jpg)
 
 In the end, blue suppresses our hunger in the exact opposite way that red does.
 

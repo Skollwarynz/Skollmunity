@@ -38,7 +38,7 @@ The most common theory suggests that the discovery of bronze was totally acciden
 
 From its discovery the use of this new material spread around the world and continued until 1100 B.C., when the Bronze Age was substituted by the Iron Age, with iron being easier to produce and stronger as a metal.
 
-![An image of a table with different objects made of bronze.](/assets/images/2025/07/Bronze-utilities-320x480.jpg)
+[![An image of a table with different objects made of bronze.](/assets/images/2025/07/Bronze-utilities-320x480.jpg)](/assets/images/2025/07/Bronze-utilities-320x480.jpg)
 
 The use of bronze returned to popularity during the Greek and Roman periods, when the metal was used in the creation of ships and statues. Due to the presence of copper in the alloy, the oxidation helped to preserve the statues and the structures.
 
@@ -46,7 +46,7 @@ Then around 800 A.C., with the invention of gunpowder, the Chinese used bronze i
 
 In our day the bronze is used in different applications, but the most iconic ones are the medal's material and religious statues.
 
-![Bronze statue 320x214](/assets/images/2025/07/bronze_statue-320x214.jpg)
+[![Bronze statue 320x214](/assets/images/2025/07/bronze_statue-320x214.jpg)](/assets/images/2025/07/bronze_statue-320x214.jpg)
 
 ## Bronze: a symbol of luxury and functionality
 
@@ -56,7 +56,7 @@ Because of its high reliability, the bronze quickly became a symbol of stability
 
 At the same time, the low rarity of this alloy gave a secondary position to this colour in contrast with the high value perceived from his relatively similar alternatives, [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">gold </span>](/gold-psychology/)and [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">silver</span>](/color-psychology-of-silver/). This middle position of less importance is principally a consequence of the Olympics. In the Olympic sports, the podium shows the best three players on the field, although the importance of the role, bronze is the symbol of the last on the podium. This symbolism gave a bad reputation to this colour that became both a symbol of luxury because of its association with silver and gold and, at the same time, a symbol of delusion and defeat.
 
-![Image of medals in the hand of a human.](/assets/images/2025/07/Bronze-medal-320x480.jpg)
+[![Image of medals in the hand of a human.](/assets/images/2025/07/Bronze-medal-320x480.jpg)](/assets/images/2025/07/Bronze-medal-320x480.jpg)
 
 ## Child of orange and brown
 
@@ -64,7 +64,7 @@ As we have already seen in another article (check [<span class="mark has-inline-
 
 Lighter hues of bronze (the alloys with a higher percentage of copper) resemble more the vivacity of orange, while the darker hues resemble more the earthiness and stability typically associated with brown. In the end we have the more shiny and balanced hues of bronze that resemble the luxury often associated with [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">gold</span>](/gold-psychology/).
 
-![City of bronze 320x180](/assets/images/2025/07/city-of-bronze-320x180.jpg)
+[![City of bronze 320x180](/assets/images/2025/07/city-of-bronze-320x180.jpg)](/assets/images/2025/07/city-of-bronze-320x180.jpg)
 
 ## Personality traits of bronze
 
@@ -78,7 +78,7 @@ Despite these positive connotations, some people associate bronze with a brutall
 
 To conclude, the connection with [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">orange</span>](http://orange)<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)"> </span>and brown gave a more "human" nature to this colour, despite the connection with luxury given from metals like gold and silver.
 
-![Bronze watches 286x480](/assets/images/2025/07/bronze-watches-286x480.jpg)
+[![Bronze watches 286x480](/assets/images/2025/07/bronze-watches-286x480.jpg)](/assets/images/2025/07/bronze-watches-286x480.jpg)
 
 Thank you all for reading this article; please consider allowing ads to support my work.
 

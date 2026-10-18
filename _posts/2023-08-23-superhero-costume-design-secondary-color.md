@@ -38,7 +38,7 @@ The most iconic example of this silly and joyful power is the [<span class="mark
 
 ## **Blue and purple**
 
-![Woman with a purple and blue costume](/assets/images/2023/08/purple-and-blue-costume.jpg-313x480.png)
+[![Woman with a purple and blue costume](/assets/images/2023/08/purple-and-blue-costume.jpg-313x480.png)](/assets/images/2023/08/purple-and-blue-costume.jpg-313x480.png)
 
 Blue and purple is maybe the strangest combination: it takes a primary and a secondary colour and fuses them together. I suggest you read the article about blue by clicking [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">here</span>](/color-blue/)<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)"> </span>because the symbols used are explained better. In fact, the wisdom of blue is connected with the nobility of purple, creating an apathetic villain. An example of this design is [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Galactus</span>](https://marvel.fandom.com/wiki/Galactus), the Devourer of the World.
 
@@ -46,7 +46,7 @@ Blue and purple is maybe the strangest combination: it takes a primary and a sec
 
 Even this combination uses a primary and secondary colour. In this case, the mix suggests powers that derive from nature or mystical sources. Examples of this design are [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Loki</span>](https://marvel.fandom.com/wiki/Loki_Laufeyson_(Earth-616)), the god of illusion, or [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Electro</span>](https://marvel.fandom.com/wiki/Electro).
 
-![green lighting](/assets/images/2023/08/green-lighting-320x425.png)
+[![green lighting](/assets/images/2023/08/green-lighting-320x425.png)](/assets/images/2023/08/green-lighting-320x425.png)
 
 As usual, thank you for reading this article, and if you want to support my work, consider following me on social media; here's my linktree.
 

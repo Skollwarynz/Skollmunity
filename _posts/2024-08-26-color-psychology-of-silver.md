@@ -36,9 +36,9 @@ In Greek mythology, statues were even used as decorations and symbols of the god
 
 Instead, Egyptians believed in the divinity of silver. They thought that silver was the god's bone material.
 
-![silver coins](/assets/images/2024/08/silver-coins.jpg)
+[![silver coins](/assets/images/2024/08/silver-coins.jpg)](/assets/images/2024/08/silver-coins.jpg)
 
- ![Silver coin](/assets/images/2024/08/silver-coin.jpg)
+ [![Silver coin](/assets/images/2024/08/silver-coin.jpg)](/assets/images/2024/08/silver-coin.jpg)
 
 ## Purity and folklore elements
 
@@ -50,7 +50,7 @@ For example, werewolves (monsters that appear even in Greek mythology) are weak 
 
 In addition, in some teenage series, Silver appears to work on vampires and other common monsters of folklore too.
 
-![werewolf halloween statue](/assets/images/2024/08/werewolf-statue.jpg)
+[![werewolf halloween statue](/assets/images/2024/08/werewolf-statue.jpg)](/assets/images/2024/08/werewolf-statue.jpg)
 
 ## Silver, symbol of branding
 
@@ -58,13 +58,13 @@ The perfect balance between [<span class="mark has-inline-color has-vivid-purple
 
 For this reason, the idea of impersonality often connects with branding. In fact, most businesses try to use this color or similar shades to attract as many people as possible. In the future, we'll talk more about the color used in branding, but the main idea is that the use of a more vibrant color can create a stronger identity.
 
-![Silver statue of Justice](/assets/images/2024/08/silver-libra-320x480.jpg)
+[![Silver statue of Justice](/assets/images/2024/08/silver-libra-320x480.jpg)](/assets/images/2024/08/silver-libra-320x480.jpg)
 
 ## Silver Film and Sci-fi
 
 On the other hand, the power of reflection and impersonality is often used in the film industry to create particular effects, especially in sci-fi movies. The ideas of impersonality and balance are reshaped into objects, like robots. The world of robots, spaceships, and futuristic technology connects deeply with the shades of silver and gray.
 
-![Spaceship 320x428](/assets/images/2024/08/spaceship-320x428.jpg)
+[![Spaceship 320x428](/assets/images/2024/08/spaceship-320x428.jpg)](/assets/images/2024/08/spaceship-320x428.jpg)
 
 To conclude, thank you all for reading this article; please consider allowing ads to support my work.
 

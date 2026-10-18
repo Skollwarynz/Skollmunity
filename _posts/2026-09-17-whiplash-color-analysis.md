@@ -26,11 +26,11 @@ This calm is then interrupted by Fletcher's arrival. This scene is used to repre
 
 From this scene the film starts his narration, and we'll see how the contrast between green and yellow tells a story with cinematic angles.
 
-![Andrew watching the musci band play](/assets/images/2026/09/ambition-960x399.jpg)
+[![Andrew watching the musci band play](/assets/images/2026/09/ambition-960x399.jpg)](/assets/images/2026/09/ambition-960x399.jpg)
 
- ![First scen of whiplash](/assets/images/2026/09/first_image-960x399.jpg)
+ [![First scen of whiplash](/assets/images/2026/09/first_image-960x399.jpg)](/assets/images/2026/09/first_image-960x399.jpg)
 
- ![Fletcher first appereance](/assets/images/2026/09/Fletcher_arrival-960x399.jpg)
+ [![Fletcher first appereance](/assets/images/2026/09/Fletcher_arrival-960x399.jpg)](/assets/images/2026/09/Fletcher_arrival-960x399.jpg)
 
 ## Three division acts
 
@@ -58,9 +58,9 @@ Another reason for this discomfort is his perception of the angles: as the scene
 
 The scene concludes with the necessity of more practice from Andrew. This is the breaking point; from this moment on, Andrew starts his transformation.
 
-![Confindence 960x399](/assets/images/2026/09/confindence-960x399.jpg)
+[![Confindence 960x399](/assets/images/2026/09/confindence-960x399.jpg)](/assets/images/2026/09/confindence-960x399.jpg)
 
- ![Are you dragging 960x399](/assets/images/2026/09/Are-you-dragging-960x399.jpg)
+ [![Are you dragging 960x399](/assets/images/2026/09/Are-you-dragging-960x399.jpg)](/assets/images/2026/09/Are-you-dragging-960x399.jpg)
 
 The second act is important because it continuously dissolves the viewer. As Andrew improves, the difficulties continue; for example, Fletcher decides to call a new drummer. This decision points to the question again, "Is Andrew good enough?" With this continued anxiety and tension with the narration, we gradually obsess and fall into the trap as Andrew. When he starts to think that he can do it, we cheer for him. In the end we reach the complete annihilation of his identity as Andrew breaks up with the girlfriend and has the car crash scene. At this point Andrew's obsession is so strong that even the viewer has a problem with him. Now the story is ready for the third and final act.
 
@@ -70,9 +70,9 @@ A desaturated point of view introduces this act. In addition to Andrew's grief, 
 
 That's a perfect moment for the final tension, when Fletcher shows to Andrew that he knows what he did. In this moment Andrew's escape scene makes the viewer grieve with Andrew. So we finally reach the end, where Fletcher's approval becomes the real prize. An expensive one, as the father seeing the son from a distance is the representation of how much Andrew had to sacrifice to reach his goal, twisted from playing drums to Fletcher's approval.
 
-![Fletcher approval 960x399](/assets/images/2026/09/Fletcher_approval-960x399.jpg)
+[![Fletcher approval 960x399](/assets/images/2026/09/Fletcher_approval-960x399.jpg)](/assets/images/2026/09/Fletcher_approval-960x399.jpg)
 
- ![No hop 960x399](/assets/images/2026/09/no_hop-960x399.jpg)
+ [![No hop 960x399](/assets/images/2026/09/no_hop-960x399.jpg)](/assets/images/2026/09/no_hop-960x399.jpg)
 
 ## Primary colors of the film: yellow and green
 
@@ -84,9 +84,9 @@ A perfect example is presented by the contrast between the music scene in the no
 
 Green plays the role of contrast with the yellow hue. Green is used to represent discomfort and make the viewer feel sick, like Andrew during tension or when he's late for an important task. As the film continues, the presence of green increments increases, and this represents how the environment became more and heavier to endure.
 
-![Normal 960x399](/assets/images/2026/09/normal-960x399.jpg)
+[![Normal 960x399](/assets/images/2026/09/normal-960x399.jpg)](/assets/images/2026/09/normal-960x399.jpg)
 
- ![Class 960x399](/assets/images/2026/09/class-960x399.jpg)
+ [![Class 960x399](/assets/images/2026/09/class-960x399.jpg)](/assets/images/2026/09/class-960x399.jpg)
 
 ## Secondary colors: black and red
 

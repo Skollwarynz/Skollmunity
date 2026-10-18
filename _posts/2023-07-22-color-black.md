@@ -42,7 +42,7 @@ The image of elegance links to the idea of the successful man, making it easier 
 
 Wearing black is also associated with formality, prestige, and even authority
 
-![Black and white image of a man drinking whiskey.](/assets/images/2023/07/man-in-a-black-suit.jpg)
+[![Black and white image of a man drinking whiskey.](/assets/images/2023/07/man-in-a-black-suit.jpg)](/assets/images/2023/07/man-in-a-black-suit.jpg)
 
 ## **Color black, a symbol of death**
 
@@ -56,7 +56,7 @@ The representation of death usually uses dark hues. The representation of death 
 
 Anger and sadness are connected with dark tones of, respectively, red and blue.
 
-![Image of a woman with a body-painted skeleton.](/assets/images/2023/07/black-symbol-of-death.jpg)
+[![Image of a woman with a body-painted skeleton.](/assets/images/2023/07/black-symbol-of-death.jpg)](/assets/images/2023/07/black-symbol-of-death.jpg)
 
 ## **Color of mystery and fear**
 
@@ -64,7 +64,7 @@ The black hue is the color that dominates the nighttime. As we said in the artic
 
 The film industry uses this hue to create mysterious characters. For this reason the dark colors are also a symbol of badness and evilness. Even comics used these effects to create some mysterious heroes, like, for example, [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">Batman</span>](/category/superheroes).
 
-![Bat origami](/assets/images/2023/07/bat-origami.jpg)
+[![Bat origami](/assets/images/2023/07/bat-origami.jpg)](/assets/images/2023/07/bat-origami.jpg)
 
 If you want some articles about the color and symbolism in the superheroes costumes, leave a comment here or on my Instagram.
 

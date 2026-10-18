@@ -28,7 +28,7 @@ By mixing these 3 main colours, we could create the **secondary colou**r:
 - Purple (Red+Blue)
 - Green (Yellow+Blue)
 
-![COlor wheel](/assets/images/2023/09/cropped-SPHERE.png)
+[![COlor wheel](/assets/images/2023/09/cropped-SPHERE.png)](/assets/images/2023/09/cropped-SPHERE.png)
 
 In the end the tertiary colours were the fusion of secondary and primary together.
 

@@ -28,7 +28,7 @@ The history behind this color is pretty long. In ancient Egypt, this tint was pr
 
 In addition, the difficulty of producing it and the rarity of this hue in nature gave a sense of rarity to the color.
 
-![Purple pawn with a crown](/assets/images/2023/10/king-pawn.jpg.png)
+[![Purple pawn with a crown](/assets/images/2023/10/king-pawn.jpg.png)](/assets/images/2023/10/king-pawn.jpg.png)
 
 ## **Purple: color of magic**
 
@@ -38,7 +38,7 @@ This unnatural power often connect this color to the more cool and chill tones o
 
 In addition the color purple usually represent a source of imagination and enlighment.
 
-![Hand wilth a magic magenta flow](/assets/images/2023/10/purple-magic-1.jpg)
+[![Hand wilth a magic magenta flow](/assets/images/2023/10/purple-magic-1.jpg)](/assets/images/2023/10/purple-magic-1.jpg)
 
 ## **Purple in film**
 
@@ -50,7 +50,7 @@ In film industry in particolar the use of different tint of purple can change th
 
 For example a lighter tint can gave a more cheerful and spiritual idea, instead darker tones can cover with mistery the scenes.
 
-![cinema camera](/assets/images/2023/10/cinema-shot.jpg)
+[![cinema camera](/assets/images/2023/10/cinema-shot.jpg)](/assets/images/2023/10/cinema-shot.jpg)
 
 As usual, thank you for reading this article, and if you want to support my work, consider following me on Instagram (@skollmunity) and allowing cookies so that I can activate the advertising to support me even further.For any information, here are all my personal links:
 

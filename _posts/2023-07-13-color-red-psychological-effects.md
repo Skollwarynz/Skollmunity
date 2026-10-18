@@ -32,7 +32,7 @@ It has been demonstrated that this colour raises blood pressure, alters metaboli
 
 The strong bodily connection between this colour and the emotion of love is a result of its significant physical effects.
 
-![Image of a couple kissing and hugging, with both of them wearing red clothes.](/assets/images/2023/07/couple-in-love-960x1440.jpg)
+[![Image of a couple kissing and hugging, with both of them wearing red clothes.](/assets/images/2023/07/couple-in-love-960x1440.jpg)](/assets/images/2023/07/couple-in-love-960x1440.jpg)
 
 ## **Excitement**
 
@@ -55,19 +55,19 @@ The film industry uses it to establish contrast and convey the characters' sensu
 
 In fact, a study found that most men find a woman more attractive when she is wearing red clothing than when she is wearing clothing of another hue.
 
-![An image of a woman in a red dress](/assets/images/2023/07/woman-in-a-red-dress.jpg)
+[![An image of a woman in a red dress](/assets/images/2023/07/woman-in-a-red-dress.jpg)](/assets/images/2023/07/woman-in-a-red-dress.jpg)
 
 ## **Power**
 
 In women's culture, red symbolises power. For this reason the red tie is a symbol of authority, and that's why the stereotype of the red tie for businessmen is so popular.
 
-![Red dress 320x214](/assets/images/2023/07/red-dress-320x214.jpg)
+[![Red dress 320x214](/assets/images/2023/07/red-dress-320x214.jpg)](/assets/images/2023/07/red-dress-320x214.jpg)
 
 ## **Connection with danger**
 
 Our body's powerful reaction links directly to the feeling of danger. This is why most of the signals of danger are mainly red. Then the colour red resembles la couleur du sang, reinforcing our perception of hazard.
 
-![Red symbol of danger 320x400](/assets/images/2023/07/Red-symbol-of-danger-320x400.jpg)
+[![Red symbol of danger 320x400](/assets/images/2023/07/Red-symbol-of-danger-320x400.jpg)](/assets/images/2023/07/Red-symbol-of-danger-320x400.jpg)
 
 These articles, like the article before (for the article about colour psychology, click here), required a lot of time and work, so consider supporting me by accepting the cookies (necessary for the advertising) and by following on Instagram and TikTok (skollmunity).
 

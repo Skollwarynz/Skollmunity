@@ -1,8 +1,11 @@
 title: "Skollmunity"
 tagline: "Visual Perception, Color Psychology & Narrative Theory"
 description: "Decoding the hidden language of color, fine art, superhero design, and cinematography. An open source initiative by Skollwarynz."
-url: "https://Skollmunity.github.io"
+url: "https://skollmunity.github.io"
 baseurl: ""
+
+# Google Search Console Verification
+google_site_verification: "fXatqtLtaIHxqXnp4RGIiOk9af8qpNTlLmqB3LQZTRk"
 
 # Author metadata inspired by Skollwarynz.github.io
 author:

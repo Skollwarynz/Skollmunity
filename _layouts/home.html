@@ -34,15 +34,17 @@ layout: default
     <div class="posts-grid">
       {% for post in site.posts %}
       <article class="post-card">
-        <a href="{{ post.url | relative_url }}" class="post-card-image-link">
-          {% if post.image %}
+        {% if post.image %}
+        <a href="{{ post.image | relative_url }}" class="post-card-image-link" target="_blank" rel="noopener noreferrer" title="Open image asset">
           <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-card-thumb" loading="lazy">
-          {% else %}
+        </a>
+        {% else %}
+        <div class="post-card-image-link">
           <div class="post-card-fallback-thumb">
             <span class="thumb-emoji">🎨</span>
           </div>
-          {% endif %}
-        </a>
+        </div>
+        {% endif %}
 
         <div class="post-card-content">
           <div class="post-card-meta">

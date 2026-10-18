@@ -23,7 +23,7 @@ This definition is accurate, though not entirely.
 
 In fact, if you search for this phrase, you can get a wheel that has numerous additional colors and shades.
 
-![Sphere](/assets/images/2023/11/SPHERE.png)
+[![Sphere](/assets/images/2023/11/SPHERE.png)](/assets/images/2023/11/SPHERE.png)
 
 ## How to dispose color
 

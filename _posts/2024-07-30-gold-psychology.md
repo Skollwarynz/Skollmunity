@@ -44,7 +44,7 @@ When we reach the time of ancient Rome, its uses were primarily twofold: represe
 
 Then, in the Middle Ages, gold was established as a material for crowns, religious construction, and decorations too. Until the movement of Rococo, where this material was largely used for the creation of highly complex decorations,.
 
-![Golden mask of a pharaon](/assets/images/2024/07/gold-pharaon-mask.jpg)
+[![Golden mask of a pharaon](/assets/images/2024/07/gold-pharaon-mask.jpg)](/assets/images/2024/07/gold-pharaon-mask.jpg)
 
 ## Divine presence
 
@@ -58,7 +58,7 @@ However, in Chinese culture, this hue is used as a representation of good luck. 
 
 To conclude, usually gold is the symbol of the sun as a result of his "divine" nature and his flashy appearance.
 
-![Golden buddish temple](/assets/images/2024/07/golden-palace.jpg)
+[![Golden buddish temple](/assets/images/2024/07/golden-palace.jpg)](/assets/images/2024/07/golden-palace.jpg)
 
 ### Gold, the doppelganger of color psychology
 
@@ -70,9 +70,9 @@ The connection with money is the main reason because it is connected with succes
 
 In the end, the gold color has different meanings and different aspects that deeply influence their appearance, from the regality like [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">purple</span>](/purple-color-psychology/)<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)"> </span>to the luxury like [<span class="mark has-inline-color has-vivid-purple-color" style="background-color:rgba(0, 0, 0, 0)">black</span>](/color-black/) (I already talked about these colors in the same section as before), and gold has connections with different meanings, making it one of the most complex colors discussed until now in our Skollmunity.
 
-![Gold lingot](/assets/images/2024/07/gold-lingot.jpg)
+[![Gold lingot](/assets/images/2024/07/gold-lingot.jpg)](/assets/images/2024/07/gold-lingot.jpg)
 
- ![Gold symbol of evil](/assets/images/2024/07/gold-symbol-of-evil.jpg)
+ [![Gold symbol of evil](/assets/images/2024/07/gold-symbol-of-evil.jpg)](/assets/images/2024/07/gold-symbol-of-evil.jpg)
 
 As usual, thank you for reading this article, and if you want to support my work, consider following me on Instagram (@skollmunity) and allowing cookies so that I can activate the advertising to support me even further.For any information, here are all my personal links:
 

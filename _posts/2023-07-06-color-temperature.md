@@ -18,7 +18,7 @@ If you don't know what warm color are I suggest you to click [<span class="mark 
 
 ### **Warm color in nature**
 
-![Image of a street in a little wood. The season is autumn to express how color temperature influence the perception of image.](/assets/images/2023/07/autumn_image.jpg)
+[![Image of a street in a little wood. The season is autumn to express how color temperature influence the perception of image.](/assets/images/2023/07/autumn_image.jpg)](/assets/images/2023/07/autumn_image.jpg)
 
 The foundation of our understanding of color temperature begins with instinct: in nature, warm colors serve as indicators of seasoning. 
 
@@ -30,7 +30,7 @@ During times, the brand industry appeals to this aspect of our instinct and empl
 
 The warm hue have an impact on our bodies. In fact,according to certain research,  people's appetites increase by warmer colors. This is why many fast food or restaurant logos and interior designs include these colors.
 
-![Hamburger with bacon and cheese](/assets/images/2023/07/red-hamburger.jpg)
+[![Hamburger with bacon and cheese](/assets/images/2023/07/red-hamburger.jpg)](/assets/images/2023/07/red-hamburger.jpg)
 
 Warm colors can also make individuals feel closer to one another and alter their unconscious spatial perception.
 

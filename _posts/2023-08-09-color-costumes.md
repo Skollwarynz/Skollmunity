@@ -76,7 +76,7 @@ A lot of heroes use this colour. Here are some examples:
 - [Nova](https://marvel.fandom.com/wiki/Nova) (in this case, the costumes imitate a cop's uniform)
 - [Doctor Fate](https://dc.fandom.com/wiki/Kent_Nelson_(New_Earth))
 
-![Comic with blue and yellow letters](/assets/images/2023/08/blue-and-yellow-comic-960x640.jpg)
+[![Comic with blue and yellow letters](/assets/images/2023/08/blue-and-yellow-comic-960x640.jpg)](/assets/images/2023/08/blue-and-yellow-comic-960x640.jpg)
 
 As usual, thank you for reading this article, and if you want to support my work, consider following me on social media. Here's my Linktree:
 
